@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookdata>
+	<head>
+		<meta name="uuid" content="e4ca4623-dffb-44d1-aa98-e34245fbfe87"/>
+		<meta name="lang" content="cu"/>
+		<meta name="title" content="Часослов"/>
+		<meta name="latin" content="Chasoslov"/>
+		<meta name="publisher" content="Московский печатный двор"/>
+		<meta name="year" content="1652"/>
+		<meta name="note" content="Source ustavshik.ru, based loosely on the 1652 edition; conversion from UCS to Unicode: Ponomar Technologies, Inc. Chapters missing from ustavshik.ru have been typset by Nikita Simmons according to the 1652 edition."/>
+		<meta name="keywords" content="часослов, chasoslov, horologion, book of the hours"/>
+	</head>
+	<manifest>
+		<chapter file="0_chasoslov_index_slavonic" name="Оглавление"/>
+		<chapter file="1_vechernya" name="Вечерня"/>
+		<chapter file="2_pavechernitsa_velikaya" name="Павечерница великая"/>
+		<chapter file="3_pavechernitsa_srednyaya" name="Павечерница средняя"/>
+		<chapter file="4_pavechernitsa_malaya" name="Павечерница малая"/>
+		<chapter file="5_polunoshchnitsa_povsednevnaya" name="Полунощница повседневная"/>
+		<chapter file="6_polunoshchnitsa_subbotnyaya" name="Полунощница субботняя"/>
+		<chapter file="7_polunoshchnitsa_voskresnaya" name="Полунощница воскресная"/>
+		<chapter file="8_utrenya" name="Утреня"/>
+		<chapter file="9_chas_1" name="Час первый"/>
+		<chapter file="10_pochasie_1" name="Междочасие первого часа"/>
+		<chapter file="11_chas_3" name="Час третий"/>
+		<chapter file="12_pochasie_3" name="Междочасие третьего часа"/>
+		<chapter file="13_chas_6" name="Час шестой"/>
+		<chapter file="14_pochasie_6" name="Междочасие шестого часа"/>
+		<chapter file="15_chas_9" name="Час девятый"/>
+		<chapter file="16_pochasie_9" name="Междочасие девятого часа"/>
+		<chapter file="17_psalmy_na_liturgii" name="Псалмы на литургии"/>
+		<chapter file="18_panagiya" name="Чин о панагии"/>
+		<chapter file="19_ukaz_o_troparekh_i_o_kondakakh" name="Указ о тропарех и о кондаках"/>
+		<chapter file="20_tropari_voskresny_i_bogorodichny" name="Тропари воскресны и Богородичны"/>
+		<chapter file="21_tropari_i_kondaki_dvevnye" name="Тропари и кондаки дневные"/>
+		<chapter file="22_bogorodichny_i_krestobogorodichny" name="Богородичны и крестобогородичны"/>
+		<chapter file="23_kondaki_i_ikosy_voskresny" name="Кондаки и икосы воскресны"/>
+		<chapter file="24a_sentyabr" name="Месяц сентябрь"/>
+		<chapter file="24b_oktyabr" name="Месяц октябрь"/>
+		<chapter file="24c_noyabr" name="Месяц ноябрь"/>
+		<chapter file="24d_dekabr" name="Месяц декабрь"/>
+		<chapter file="24e_yanvar" name="Месяц январь"/>
+		<chapter file="24f_fevral" name="Месяц февраль"/>
+		<chapter file="24g_mart" name="Месяц март"/>
+		<chapter file="24h_aprel" name="Месяц апрель"/>
+		<chapter file="24i_mai" name="Месяц май"/>
+		<chapter file="24j_iyun" name="Месяц июнь"/>
+		<chapter file="24k_iyul" name="Месяц июль"/>
+		<chapter file="24l_avgust" name="Месяц август"/>
+		<chapter file="25_tropari_chetverodesyatnitsy" name="Тропари Четверодесятницы"/>
+		<chapter file="26_tropari_pyatidesyatnitsy" name="Тропари пятидесятницы"/>
+		<chapter file="27_ukaz_o_pesnekh" name="Указ о песнех"/>
+		<chapter file="28_obrashchenie_indiktiona" name="Обращение индиктиона"/>
+		<chapter file="29_paskhaliya_zryachaya" name="Пасхалия зрячая"/>
+		<chapter file="30_lunnoe_techenie" name="Лунное течение"/>
+	</manifest>
+</bookdata>
